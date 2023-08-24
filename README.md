@@ -1,1 +1,1 @@
-# odin-recipes
+With this project, the goal is to make my first website. It won't look pretty for now, but once I start learning CSS I'll work on it again and improve the visuals.
